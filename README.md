@@ -1,9 +1,6 @@
 # projeto pokedex
 
-Projeto pokedex é uma aplicação web que permite aos usuarios informações sobre pokemon. 
-
-Tecnologias udadas -> HTML/CSS, e JavaScript.
-
-O projeto utiliza uma API externa para obter dados atualizados sobre pokémon.
+Descrição:
+O projeto é uma Pokedex interativa e responsiva desenvolvida exclusivamente com JavaScript, HTML e CSS, e integra uma API para acessar informações detalhadas sobre diferentes espécies de Pokémon em tempo real.
 
 Créditos ao canal Manual do Dev no youtube. 
